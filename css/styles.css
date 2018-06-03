@@ -1,0 +1,54 @@
+/*Container Div*/
+div.container {
+    width: 50%;
+    border: 1px solid gray;
+    font-size: large;
+    font-family: arial;
+    margin: auto;
+	background-color: grey;
+}
+/*Input Field*/
+#given_num {
+    width: 47%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 10px;
+    margin: 6px 0px 0px 0px;
+	float: left;
+}
+/*Counter*/
+#test{
+	color: white;
+    text-align: center;
+    font-size: 25px;
+    margin: 10px 20px 0px 0px;
+    font-weight: 700;
+}
+/*Fingers and Toes boxes*/
+.box{
+	width: 45%;
+    float: left;
+    margin: 7px;
+    text-align: center;
+	
+}
+/*Buttons*/
+button {
+    box-sizing: content-box;
+    color: inherit;
+    font: inherit;
+    line-height: normal;
+    overflow: visible;
+    background-color: #f0f0f0;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0.25em;
+    line-height: 2.5;
+    margin: 0.25em;
+    padding: 0 1em;
+    width: 40%;
+}
